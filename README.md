@@ -47,8 +47,9 @@ Các thành phần chính:
 
 
 ### 4.2. Mô hình Smart Home
-<img width="2568" height="1926" alt="1795363694701_2291748249378660536_918592688077128138_6a9138effce8e781c5703deb4f83cc96" src="https://github.com/user-attachments/assets/32262c82-f3c7-4d34-ae88-4a792c1f654e" />
-<img width="2568" height="1926" alt="1795363694701_2291748249378660536_918592688077128138_6a9138effce8e781c5703deb4f83cc96" src="https://github.com/user-attachments/assets/6891aad9-bf18-417e-90cb-08c7c1b03250" />
+<img width="1177" height="1710" alt="mh11" src="https://github.com/user-attachments/assets/cf609b6e-8ebd-4702-b883-2e2019242548" />
+<img width="2560" height="1407" alt="mh22" src="https://github.com/user-attachments/assets/82954ed2-b3b9-4b48-963f-8fb2217c7b7f" />
+
 
 
 
