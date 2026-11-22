@@ -43,12 +43,12 @@ Các thành phần chính:
 
 ### 4.1. Poster
 
-<img width="477" height="636" alt="image" src="https://github.com/user-attachments/assets/79279d46-5e2b-4f24-aa7b-cfb1feb8ffe6" />
+<img width="1084" height="1451" alt="posterr" src="https://github.com/user-attachments/assets/4b67abe2-2fc5-4af4-92fb-960ad56c18a7" />
+
 
 
 ### 4.2. Mô hình Smart Home
-<img width="1177" height="1710" alt="mh11" src="https://github.com/user-attachments/assets/cf609b6e-8ebd-4702-b883-2e2019242548" />
-<img width="2560" height="1407" alt="mh22" src="https://github.com/user-attachments/assets/82954ed2-b3b9-4b48-963f-8fb2217c7b7f" />
+<img width="1536" height="1024" alt="mohinh" src="https://github.com/user-attachments/assets/67d3a251-5849-45da-8ff2-998951cc5041" />
 
 
 
