@@ -42,7 +42,8 @@ Các thành phần chính:
 ## 4. Hình ảnh dự án
 
 ### 4.1. Poster
-<img width="1084" height="1451" alt="posterr" src="https://github.com/user-attachments/assets/e833761f-49f1-42f8-b849-624c937ef31e" />
+<img width="468" height="618" alt="image" src="https://github.com/user-attachments/assets/0319654c-c569-4f1d-af8f-b4f679d1ef4a" />
+
 
 
 
